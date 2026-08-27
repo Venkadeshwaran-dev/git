@@ -1,1 +1,1 @@
-console.log("welcome to th egit course");
+console.log("welcome to the git course");
